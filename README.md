@@ -1,5 +1,6 @@
 ### Hi, I'm Tinu Vanapamula 👋
 
+I'm an Freshman at Montgomery Blair High School and I'm quite passionate about Computer Science. I am currently well versed in the world of Web Development, and interested in branching out to other topics in computer science. Check out my website https://tinu.tech.
 <!--
 **tinuh/tinuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
