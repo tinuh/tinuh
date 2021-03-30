@@ -1,4 +1,4 @@
-### Hi, I'm Tinu Vanapamula <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi, I'm Tinu Vanapamula <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I'm an Freshman at Montgomery Blair High School and I'm quite passionate about Computer Science. I am currently well versed in the world of Web Development, and interested in branching out to other topics in computer science. Check out my website https://tinu.tech.
 <!--
