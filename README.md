@@ -4,7 +4,7 @@ I'm an Freshman at Montgomery Blair High School and I'm quite passionate about C
 
 [![Tinu's GitHub stats](https://github-readme-stats.vercel.app/api?username=tinuh)](https://github.com/anuraghazra/github-readme-stats)
 
-##Worked with
+##
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
