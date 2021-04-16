@@ -3,6 +3,7 @@
 I'm an Freshman at Montgomery Blair High School and I'm quite passionate about Computer Science. I am currently well versed in the world of Web Development, and interested in branching out to other topics in computer science. Check out my website https://tinu.tech.
 
 [![Tinu's GitHub stats](https://github-readme-stats.vercel.app/api?username=tinuh&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tinuh&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Worked with
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
