@@ -20,5 +20,4 @@ I'm an Freshman at Montgomery Blair High School and I'm passionate about Technol
 ![Firebase](https://img.shields.io/badge/-Firebase-F5820D?style=flat-square&logo=Firebase)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tinuh&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
