@@ -16,7 +16,7 @@ I'm a sophomore at Montgomery Blair High School and I'm passionate about Technol
 
 #### Frameworks & Tools
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Django](https://img.shields.io/badge/-Django-092e20?style=flat-square&logo=Django)
+![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
