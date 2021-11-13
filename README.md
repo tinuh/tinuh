@@ -4,8 +4,8 @@ I'm a sophomore at Montgomery Blair High School and I'm passionate about Technol
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=tinuh&show_icons=true&theme=gotham" alt="tinuh" width="500" mb="12px" />
 
-- 📫 Reach me at: [tinu@tinu.tech](mailto:tinu@tinu.tech)
 - 📝 Check out my [Website](https://tinu.tech)
+- 📫 Reach me at: [tinu@tinu.tech](mailto:tinu@tinu.tech)
 
 #### Languages/Frameworks & Tools
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
