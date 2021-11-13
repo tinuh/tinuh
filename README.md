@@ -7,17 +7,17 @@ I'm a sophomore at Montgomery Blair High School and I'm passionate about Technol
 - 📫 Reach me at: [tinu@tinu.tech](mailto:tinu@tinu.tech)
 - 📝 Check out my [Website](https://tinu.tech)
 
-#### Worked with
+#### Languages
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+
+#### Frameworks & Tools
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Django](https://img.shields.io/badge/-Django-092e20?style=flat-square&logo=Django)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![Firebase](https://img.shields.io/badge/-Firebase-F5820D?style=flat-square&logo=Firebase)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
-
-
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-black?style=flat-square&logo=Raspberry-Pi)
