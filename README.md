@@ -1,6 +1,7 @@
-# Hi, I'm Tinu Vanapamula <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ![](https://visitor-badge.glitch.me/badge?page_id=tinuh.tinuh)
+# Hey, I'm Tinu Vanapamula <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ![](https://visitor-badge.glitch.me/badge?page_id=tinuh.tinuh)
 
-I'm a sophomore at Montgomery Blair High School and I'm passionate about Technology and Computer Science. I am currently well versed in the world of Web Development, and interested in branching out to other topics in computer science.
+ I'm a sophomore at Montgomery Blair High School interested in tech and Computer Science.
+Full-stack web development, engineering, server management, and a variety of other topics are among my interests.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=tinuh&show_icons=true&theme=gotham" alt="tinuh" width="500" mb="12px" />
 
