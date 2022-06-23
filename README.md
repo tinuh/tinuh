@@ -1,4 +1,4 @@
-# Hey, I'm Tinu Vanapamula <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ![](https://visitor-badge.glitch.me/badge?page_id=tinuh.tinuh)
+# Hey, I'm Tinu Vanapamula <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"> ![](https://visitor-badge.glitch.me/badge?page_id=tinuh.tinuh)
 
  I'm a sophomore at Montgomery Blair High School interested in tech and Computer Science.
 Full-stack web development, engineering, server management, and a variety of other topics are among my interests.
