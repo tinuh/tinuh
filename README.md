@@ -1,7 +1,6 @@
 # Hey, I'm Tinu Vanapamula <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"> ![](https://visitor-badge.glitch.me/badge?page_id=tinuh.tinuh)
 
- I'm a junior at Montgomery Blair High School interested in tech and Computer Science.
-Full-stack web development, engineering, server management, and a variety of other topics are among my interests.
+I'm a senior at Montgomery Blair High School interested in all things tech. I'm interested in full-stack web development, engineering, server management, and a variety of other topics. In my spare time, I like to play ultimate frisbee and chess.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=tinuh&show_icons=true&theme=gotham" alt="tinuh" width="500" mb="12px" />
 
