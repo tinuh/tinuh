@@ -1,6 +1,6 @@
 # Hey, I'm Tinu Vanapamula <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"> ![](https://visitor-badge.glitch.me/badge?page_id=tinuh.tinuh)
 
-I'm an incoming freshman studying Computer Science at the University of Maryland, with a passion for all things tech. My current interests include software engineering, data analytics, and server management. I love being presented with a good challenge and having to research and engineer creative solutions. In my free time, I like maintaining my home lab and building software I find useful. Beyond computers, I also enjoy playing ultimate frisbee and rock climbing.
+I'm an incoming freshman studying Computer Science at the University of Maryland, with a strong passion for technology. My current interests lie in software engineering, data analytics, and server management. I thrive on tackling challenges and enjoy researching and engineering creative solutions. In my free time, I maintain a home lab and build software I find useful. Beyond computers, I also enjoy playing ultimate frisbee and rock climbing.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=tinuh&show_icons=true&theme=gotham" alt="tinuh" width="500" mb="12px" />
 
