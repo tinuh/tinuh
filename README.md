@@ -1,4 +1,4 @@
-# Hey, I'm Tinu Vanapamula <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"> ![visitors](https://visitor-badge.laobi.icu/badge?page_id=tinuh.tinuh)
+# Hey, I'm Tinu Vanapamula <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">
 
 I'm a rising junior studying Computer Science & Economics at the University of Maryland, with a strong passion for technology. My current interests lie in software engineering, data analytics, and server management. I thrive on tackling challenges and enjoy researching and engineering creative solutions. In my free time, I maintain a home lab and build software I find useful. Beyond computers, I also enjoy playing ultimate frisbee and rock climbing.
 
