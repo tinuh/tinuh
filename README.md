@@ -2,8 +2,6 @@
 
 I'm a junior studying Computer Science & Economics at the University of Maryland, with a strong passion for technology. My current interests lie in software engineering, data analytics, and server management. I thrive on tackling challenges and enjoy researching and engineering creative solutions. In my free time, I maintain a home lab and build software I find useful. Beyond computers, I also enjoy playing ultimate frisbee and rock climbing.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=tinuh&show_icons=true&theme=gotham" alt="tinuh" width="500" mb="12px" />
-
 - 📝 Check out my [Website](https://tinu.tech)
 - 📫 Reach me at: [tinu@tinu.tech](mailto:tinu@tinu.tech)
 
