@@ -1,6 +1,6 @@
 # Hey, I'm Tinu Vanapamula <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">
 
-I'm a junior studying Computer Science & Economics at the University of Maryland, with a strong passion for technology. My current interests lie in software engineering, data analytics, and server management. I thrive on tackling challenges and enjoy researching and engineering creative solutions. In my free time, I maintain a home lab and build software I find useful. Beyond computers, I also enjoy playing ultimate frisbee and rock climbing.
+I'm a senior studying Computer Science & Economics at the University of Maryland, with a strong passion for technology. My current interests lie in software engineering, data analytics, and server management. I thrive on tackling challenges and enjoy researching and engineering creative solutions. In my free time, I maintain a home lab and build software I find useful. Beyond computers, I also enjoy playing ultimate frisbee and rock climbing.
 
 - 📝 Check out my [Website](https://tinu.tech)
 - 📫 Reach me at: [tinu@tinu.tech](mailto:tinu@tinu.tech)
